@@ -23,8 +23,7 @@
 
 ### 关于范例应用
 
-现在你了解区块链是如何运作了，那么开始来制作我们的范例App吧！请先下载初始项目。
-（https://raw.githubusercontent.com/appcoda/BlockchainDemo/master/BlockchainStarter.zip）
+现在你了解区块链是如何运作了，那么开始来制作我们的范例App吧！请先下载(初始项目)[https://raw.githubusercontent.com/appcoda/BlockchainDemo/master/BlockchainStarter.zip]。
 
 如你所见，我们有两个比特币钱包。第一个帐号Account 1065 拥有500 BTC，而第二个帐号0217 则什么都没有。我们利用传送按钮来传送比特币到其他帐号。为了赚取BTC，我们按下Mine 按钮就可以获得50 BTC 为奖励。基本来说，我们做的是当App 执行时，利用控制台来观察两个比特币帐号间的交易情况。
 
