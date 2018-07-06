@@ -23,7 +23,7 @@
 
 ### 关于范例应用
 
-现在你了解区块链是如何运作了，那么开始来制作我们的范例App吧！请先下载(初始项目)[https://raw.githubusercontent.com/appcoda/BlockchainDemo/master/BlockchainStarter.zip]。
+现在你了解区块链是如何运作了，那么开始来制作我们的范例App吧！请先下载[初始项目](https://raw.githubusercontent.com/appcoda/BlockchainDemo/master/BlockchainStarter.zip)。
 
 如你所见，我们有两个比特币钱包。第一个帐号Account 1065 拥有500 BTC，而第二个帐号0217 则什么都没有。我们利用传送按钮来传送比特币到其他帐号。为了赚取BTC，我们按下Mine 按钮就可以获得50 BTC 为奖励。基本来说，我们做的是当App 执行时，利用控制台来观察两个比特币帐号间的交易情况。
 
@@ -291,8 +291,6 @@ override func viewDidLoad() {
 
 在这次的教学中，你学到了如何使用Swift 来建立一个区块链，并建立自己的比特币交易。请注意在真实的加密货币后台里，实作部分是跟上文是完全不一样的东西，因为它需要藉由智慧合约来分散，但是上面的示范内容用来学习的。
 在这个范例中，我们运用了比特币来当加密货币，但你能想到区块链还的其他用途吗？欢迎在下面留言分享你的看法！希望你在此学到新的东西！
-你可以在Github下载完整项目作参考。
-
-完整项目：https://github.com/appcoda/BlockchainDemo
+你可以在Github下载[完整项目](https://github.com/appcoda/BlockchainDemo)作参考。
 
 > 转载自 AppCoda，一家专注 Swift 的高质量教学分享平台。
